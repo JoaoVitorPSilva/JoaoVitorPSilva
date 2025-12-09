@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorPSilva&show_icons=true&theme=radical)
-<!--
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoVitorPSilva&show_icons=true&theme=radical)
 **JoaoVitorPSilva/JoaoVitorPSILVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
