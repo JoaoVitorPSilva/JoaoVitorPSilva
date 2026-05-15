@@ -6,8 +6,6 @@
 
 ## GitHub Stats
 
-![Joao's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitorpsilva&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaovitorpsilva&theme=radical)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitorpsilva&layout=compact&theme=radical)
@@ -26,6 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 
 ---
 
