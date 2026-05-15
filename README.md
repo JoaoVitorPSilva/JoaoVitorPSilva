@@ -6,13 +6,14 @@
 
 ## GitHub Stats
 
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorpsilva&show_icons=true&theme=radical&cache_seconds=1800)
+![Joao's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaovitorpsilva&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaovitorpsilva&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorpsilva&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitorpsilva&layout=compact&theme=radical)
 
 ---
+
 
 ## Technologies
 
