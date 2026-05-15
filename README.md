@@ -1,17 +1,14 @@
-# Hi there 👋
-
 ## About Me
 
 - 💻 Bachelor's degree in Computer Science
-- ⚡ I like building tools and web applications
 
 ---
 
 ## GitHub Stats
 
-![Joao's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoVitorPSilva&show_icons=true&theme=radical)
+![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorpsilva&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoVitorPSilva&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorpsilva&layout=compact&theme=radical)
 
 ---
 
@@ -22,7 +19,10 @@
 ![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxt)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
 
 ---
 
