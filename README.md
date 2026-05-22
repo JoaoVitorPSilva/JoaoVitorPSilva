@@ -1,6 +1,6 @@
 ## About Me
 
-- 💻 Bachelor's degree in Computer Science
+- 💻 Computer Scientist.
 
 ---
 
