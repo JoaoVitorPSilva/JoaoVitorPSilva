@@ -6,8 +6,6 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=joaovitorpsilva&theme=radical)
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovitorpsilva&layout=compact&theme=radical)
 
 ---
