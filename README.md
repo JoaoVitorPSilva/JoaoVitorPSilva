@@ -27,7 +27,5 @@
 
 ## Contact
 
-- 📫 GitHub: https://github.com/JoaoVitorPSilva
-- 💼 LinkedIn: João Vitor Pieczarka da Silva
 - 📧 Email: joaopieczarka@gmail.com
 
